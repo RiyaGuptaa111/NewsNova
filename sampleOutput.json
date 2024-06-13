@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine says it repelled Russian bid to cross border",
+      "description": "The attempt came during an attack on a town in the northeastern Kharkiv region, says the military.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pyv8q94g1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b2e2/live/7ecd9ee0-0ebc-11ef-8f3e-f3c169ee7041.jpg",
+      "publishedAt": "2024-05-11T09:07:12.0732767Z",
+      "content": "Ukrainian commanders have been expecting a summer offensive for some time, possibly even a bid to capture the regional capital, Kharkiv. But officials are adamant Russia does not have the resources t… [+1555 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Joost Klein: Confusion over fate of Dutch Eurovision star",
+      "description": "The EBU says it is investigating an \"incident\" involving Joost Klein, who is temporarily suspended.",
+      "url": "https://www.bbc.co.uk/news/articles/c9rz5dp467lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e7e6/live/bbdd6c20-0efd-11ef-8d3e-bd8254c642eb.jpg",
+      "publishedAt": "2024-05-11T08:37:19.04115Z",
+      "content": "The Dutch Eurovision contestant will not perform in Friday evening's dress rehearsal while organisers investigate a backstage incident.\r\nThe European Broadcasting Union (EBU), which organises the eve… [+1659 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Why does key former Trump adviser Steve Bannon now face jail time?",
+      "description": "Steve Bannon, the right-wing media personality-turned-Trump adviser, may be heading to prison.",
+      "url": "https://www.bbc.co.uk/news/election-us-2016-37971742",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8BBD/production/_99537753_mediaitem99537752.jpg",
+      "publishedAt": "2024-05-11T08:37:18.6037597Z",
+      "content": "Steve Bannon was the driving force behind the right-wing Breitbart News website, and later became a key Donald Trump adviser before launching a podcast devoted to obliterating Democrats and Republica… [+5535 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Eurovision final 2024: Seven things to look out for",
+      "description": "A look at some of the most eye-catching performers, ahead of the grand final on Saturday night.",
+      "url": "https://www.bbc.co.uk/news/articles/c3g8ejp8jexo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a077/live/e20ee970-0ef1-11ef-9773-439c762454e2.jpg",
+      "publishedAt": "2024-05-11T05:52:16.1066461Z",
+      "content": "The Eurovision Song Contest reaches its grand final on Saturday night, with Croatia, Israel and Switzerland among the favourites to win.\r\nThe competition is back in its spiritual home in Sweden, 50 y… [+1006 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Northern Lights: Sightings across UK after solar storm",
+      "description": "A solar storm of this scale can cause disruptions to infrastructure such as the power grid.",
+      "url": "https://www.bbc.co.uk/news/articles/c1ej1kk0d88o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/29fb/live/d1cdef90-0f1c-11ef-b9d8-4f52aebe147d.jpg",
+      "publishedAt": "2024-05-10T22:52:14.8879731Z",
+      "content": "Storms of this scale could potentially impact infrastructure, including satellites and the power grid, the NOAA warned.\r\nAccording to BBC Weather, clear skies make a sighting possible from most parts… [+792 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Northern Lights: US may get rare show this weekend due to solar storm",
+      "description": "Rare solar storm could trigger phenomenon as far south as Alabama, experts say.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68994222",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A0E5/production/_133298114_b7d83387-4357-4f92-9cf1-9bd4f166e86a.jpg",
+      "publishedAt": "2024-05-10T22:52:14.3724764Z",
+      "content": "Media caption, Watch: These solar flares may lead to rare Northern Lights sighting\r\nThe beauty of the Northern Lights phenomenon could be seen as far south as Alabama this weekend, as the effects of … [+1815 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump's youngest son Barron 'declines' to be RNC delegate, his mother Melania says",
+      "description": "The former US president's youngest child, 18, has \"prior commitments\", according to his mother.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68992293",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F153/production/_133297716_gettyimages-1410059415.jpg",
+      "publishedAt": "2024-05-10T22:37:14.2629234Z",
+      "content": "Barron Trump is declining to serve as a delegate on behalf of his father at the Republican National Convention, according to his mother's office.\r\nThe Florida Republican Party announced on Wednesday … [+3209 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Israel may have breached international law with US weapons in Gaza, says state department",
+      "description": "State department says it is \"reasonable to assess\" that US-supplied weapons were used in ways inconsistent with Israel's legal obligations.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68984999",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/02B0/production/_133288600_gettyimages-2151150646.jpg",
+      "publishedAt": "2024-05-10T21:37:16.654299Z",
+      "content": "The US government says Israel may have breached humanitarian law in Gaza using American weapons.\r\nIn a long-awaited report, the state department says it is \"reasonable to assess\" that US-supplied arm… [+869 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Steve Bannon may soon head to prison after appeal fails",
+      "description": "He was convicted in 2022 for not co-operating with a congressional committee probing the capitol riot.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68992372",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148D3/production/_133297148_gettyimages-1470319302.jpg",
+      "publishedAt": "2024-05-10T16:52:18.9039919Z",
+      "content": "A federal appeals court has upheld the criminal conviction of former Trump strategist Steve Bannon.\r\nThe decision may soon send Bannon, 70, to prison, after years of legal wrangling. \r\nHe was convict… [+1862 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Baby Reindeer: Fiona Harvey says she will sue Netflix and writer Richard Gadd",
+      "description": "Fiona Harvey accuses Netflix, as well as writer Richard Gadd, of lying, in a Piers Morgan interview.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-68975659",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/635F/production/_133293452_de29.jpg",
+      "publishedAt": "2024-05-10T14:37:12.3256896Z",
+      "content": "The woman who has been alleged to have inspired the character Martha in hit drama Baby Reindeer has said she will sue its creator and Netflix.\r\nFiona Harvey told Piers Morgan that the series, in whic… [+4244 chars]"
+    }
+  ]
+}

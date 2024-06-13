@@ -1,0 +1,9 @@
+nav .navbar-brand span{
+    color: rgba(148, 228, 241, 0.767);
+    font-family: palatino;
+    font-weight: bold;
+
+}
+nav .navbar-brand{
+    font-size: 25px;
+}
